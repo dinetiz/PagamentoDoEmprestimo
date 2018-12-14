@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pagamento do Empréstimo</string>
+    <string name="site.pagamentodoemprestimo.redirect">https://sites.google.com/view/pagandoemprestimo/index</string>
+</resources>
